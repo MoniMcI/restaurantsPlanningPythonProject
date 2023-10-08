@@ -1,0 +1,194 @@
+[
+	{
+		"id_destino": 1,
+		"nombre": "La Esquina",
+		"tipo_cocina": "Regional",
+		"ingredientes": ["Pan", "Tomate", "Queso", "Papas", "Carnes", "Aderesos"],
+		"precio_minimo": 999.99,
+		"precio_maximo": 3999.99,
+		"popularidad": 4,
+		"disponibilidad": true,
+		"id_ubicacion": 1,
+		"imagen": "LaEsquina.jpg"
+	},
+	{
+		"id_destino": 2,
+		"nombre": "Bixi Coffee House",
+		"tipo_cocina": "Regional",
+		"ingredientes": ["Carnes", "Ensaladas", "Aceite de oliva", "Pastas"],
+		"precio_minimo": 1399.99,
+		"precio_maximo": 4599.99,
+		"popularidad": 4.5,
+		"disponibilidad": false,
+		"id_ubicacion": 2,
+		"imagen": "BixiCoffeeHouse.jpg"
+	},
+	{
+		"id_destino": 3,
+		"nombre": "Sir of the beer - Bigotes",
+		"tipo_cocina": "Nacional",
+		"ingredientes": ["Sandwiches", "Alcohol", "Carnes", "Verduras"],
+		"precio_minimo": 699.99,
+		"precio_maximo": 5999.99,
+		"popularidad": 4,
+		"disponibilidad": true,
+		"id_ubicacion": 3,
+		"imagen": "SirOfThebeer-Bigote.jpeg"
+	},
+	{
+		"id_destino": 4,
+		"nombre": "Comidas Arabes Dubai",
+		"tipo_cocina": "Arabes",
+		"ingredientes": ["Cebada", "Legunbres", "Pepinos", "Limon"],
+		"precio_minimo": 1699.99,
+		"precio_maximo": 7999.99,
+		"popularidad": 4.5,
+		"disponibilidad": false,
+		"id_ubicacion": 4,
+		"imagen": "Dubai.jpg"
+	},
+	{
+		"id_destino": 5,
+		"nombre": "Rotisería China Hua Xing",
+		"tipo_cocina": "Mandarina",
+		"ingredientes": [
+			"Mariscos frescos",
+			"Pescados frescos",
+			"Jengibre",
+			"Doufu",
+			"Fideo",
+			"Arroz"
+		],
+		"precio_minimo": 2599.99,
+		"precio_maximo": 6599.99,
+		"popularidad": 4,
+		"disponibilidad": true,
+		"id_ubicacion": 5,
+		"imagen": "RotiseriaChinachuaXing.jpg"
+	},
+	{
+		"id_destino": 6,
+		"nombre": "Jing Du",
+		"tipo_cocina": "China",
+		"ingredientes": [
+			"Aceite de oliva",
+			"Trufas",
+			"Pescados",
+			"Arroz",
+			"Naruto"
+		],
+		"precio_minimo": 2999.99,
+		"precio_maximo": 5999.99,
+		"popularidad": 4.5,
+		"disponibilidad": false,
+		"id_ubicacion": 6,
+		"imagen": "JunDu.jpg"
+	},
+	{
+		"id_destino": 7,
+		"nombre": "La Nueva China",
+		"tipo_cocina": "Cantonés",
+		"ingredientes": [
+			"Jengibre",
+			"Cebollete",
+			"Azúcar",
+			"Sal",
+			"Vino de arroz",
+			"Almidón",
+			"salsa de soja",
+			"Aceite"
+		],
+		"precio_minimo": 1599.99,
+		"precio_maximo": 4999.99,
+		"popularidad": 4,
+		"disponibilidad": true,
+		"id_ubicacion": 7,
+		"imagen": "LaNuevaChina.jpg"
+	},
+	{
+		"id_destino": 8,
+		"nombre": "In Bocca al Lupo Pizza Napoletana",
+		"tipo_cocina": "Italiana",
+		"ingredientes": [
+			"Tomate",
+			"Queso",
+			"Pasta",
+			"Ajo",
+			"Marisco",
+			"Aceite de oliva"
+		],
+		"precio_minimo": 2299.99,
+		"precio_maximo": 6999.99,
+		"popularidad": 5,
+		"disponibilidad": false,
+		"id_ubicacion": 8,
+		"imagen": "InBoccaAlLupoPizza.jpg"
+	},
+	{
+		"id_destino": 9,
+		"nombre": "José Balcarse",
+		"tipo_cocina": "Internacional",
+		"ingredientes": ["Carnes Premium", "Trufas", "Foie gras", "Vino"],
+		"precio_minimo": 5999.99,
+		"precio_maximo": 15999.99,
+		"popularidad": 4.5,
+		"disponibilidad": true,
+		"id_ubicacion": 9,
+		"imagen": "JoseBalcarse.jpg"
+	},
+	{
+		"id_destino": 10,
+		"nombre": "Nómada Sushi Bar",
+		"tipo_cocina": "Japonesa",
+		"ingredientes": [
+			"Arroz",
+			"Vinagre de arroz",
+			"Alga nori",
+			"Salsa de soja",
+			"Panko",
+			"Miso",
+			"Tofu"
+		],
+		"precio_minimo": 1299.99,
+		"precio_maximo": 3999.99,
+		"popularidad": 4.5,
+		"disponibilidad": false,
+		"id_ubicacion": 10,
+		"imagen": "NomadaSushiBar.png"
+	},
+	{
+		"id_destino": 11,
+		"nombre": "Kchip Korean Food",
+		"tipo_cocina": "Coreana",
+		"ingredientes": [
+			"Aceite de sésamo",
+			"Doenjang",
+			"Salsa de soya",
+			"Sal",
+			"ajo",
+			"Jengibre",
+			"Hojuelas de pimienta",
+			" Gochujang",
+			"Col china"
+		],
+		"precio_minimo": 399.99,
+		"precio_maximo": 599.99,
+		"popularidad": 5,
+		"disponibilidad": true,
+		"id_ubicacion": 11,
+		"imagen": "KchipKoreanFood.jpg"
+	},
+	{
+		"id_destino": 12,
+		"nombre": "La Nueva Mega Peña La Panadería del Chuña",
+		"tipo_cocina": "Regional",
+		"ingredientes": ["Carne Cortada a Cuchillo, Papa", "Cócteles"],
+		"precio_minimo": 399.99,
+		"precio_maximo": 4999.99,
+		"popularidad": 4,
+		"disponibilidad": false,
+		"id_ubicacion": 12,
+		"imagen": "LaNuevaMegaPeniaLaPanaderiaDelChunia.jpg"
+	}
+
+]
